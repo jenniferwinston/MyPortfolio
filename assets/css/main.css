@@ -13,6 +13,15 @@
    Base Styles and Bootstrap Modifications
    ========================================================================== */
 
+
+.skills-icons {
+  font-size: 5em;
+  margin: .25em;
+}
+.skills-div {
+  padding: .75em;
+}
+
 html,
 button,
 input,
