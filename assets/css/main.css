@@ -12,7 +12,26 @@
 /* ==========================================================================
    Base Styles and Bootstrap Modifications
    ========================================================================== */
-
+.btn-circle {
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    padding: 5px 16px;
+    border: 2px solid #ffffff;
+    border-radius: 100%;
+    font-size: 40px;
+    color: #ffffff;
+    background: transparent;
+}
+.fa-fw {
+    color: white;
+}
+.fa:hover{
+   color: grey;
+}
+.porticon {
+    color: grey;
+}
 
 .skills-icons {
   font-size: 5em;
